@@ -74,6 +74,14 @@ __Russian__, fluent
 
 __Swedish__, B2
 
+## Interests
+
+__Guitar__
+
+__Mountain biking__
+
+__Skiing__
+
 
 <!-- ### Footer
 
