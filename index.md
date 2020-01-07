@@ -76,11 +76,7 @@ __Swedish__, B2
 
 ## Interests
 
-__Guitar__
-
-__Mountain biking__
-
-__Skiing__
+Guitar, Mountain biking, Skiing
 
 
 <!-- ### Footer
