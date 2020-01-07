@@ -28,9 +28,13 @@ Back end development, network security, embedded systems
 ## Work Experience
 
 `2015`
-__Software developer / Scrum master__, Clavister AB
+__C software developer in network security / Scrum master__, Clavister AB
 
-- TODO: work experience in clavister
+- As the first part of my role at Clavister I've been involved in design and development of embedded systems for network security for enterprise and telecom markets as well as management systems for network security devices. I've worked on network traffic processing systems, network protocol implementation, application level gateway features etc. Most of development was done in C, C++ and Javascript / Node.js.
+- Design work included indentifying use-cases, formalizing requirements and developing high-level design description and feature breakdown.
+- Projects that I have been part of include network security gateways NetWall, NetShield and gateway management system InCenter.
+- Apart from my main projects I have advocated and contributed to improvement of internal systems to improve, optimize and simplify engineering work at the company.
+- Secondly, my responsibility at Clavister as a scrum master has been facilitating the work of my team and ensuring smooth operation. Identifying and solving blockers and other obstacles, communication with people outside of the team, hosting meetings and looking over agile process were all part of my work.
 
 `2013-2014`
 __Python developer__, ZEO Alliance
@@ -38,7 +42,7 @@ __Python developer__, ZEO Alliance
 - TODO: work experience
 
 `2012-2013`
-__Python developer__, Kolo Global
+__Python developer__, Kolo Globalt
 
 - TODO: work experience
 
@@ -62,17 +66,13 @@ __Kyiv National Taras Shevchenko University.__
 
 ## Languanges
 
-`Fluent`
-__English.__
+__English__, fluent
 
-`Native`
-__Ukrainian.__
+__Ukrainian__ native
 
-`Fluent`
-__Russian.__
+__Russian__, fluent
 
-`B2`
-__Swedish.__
+__Swedish__, B2
 
 
 <!-- ### Footer
