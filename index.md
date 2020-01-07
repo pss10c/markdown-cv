@@ -1,91 +1,82 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Serhii Pohorilyi's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Serhii Pohorilyi
+Software engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="serhii.pohorilyi@gmail.com">serhii.pohorilyi@gmail.com</a>
+| <a href="https://www.linkedin.com/in/serhii-pohorilyi-68ba9128/">LinkedIn profile</a>
 </div>
+
+## About me
+
+I am a software engineer "get job done" attitude and 9+ years of experience in software development.
+With experience in back end development and network security systems and background in computer science, distributed systems and cryptography I look for porjects to apply my skills to.
+On top of technical abilities I sympathise with agile methodologies and have experience facilitating work of my team as a scrum master.
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Looking for job: TODO: which job
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Back end development, network security, embedded systems
 
+## Work Experience
 
-### Research interests
+`2015`
+__Software developer / Scrum master__, Clavister AB
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- TODO: work experience in clavister
+
+`2013-2014`
+__Python developer__, ZEO Alliance
+
+- TODO: work experience
+
+`2012-2013`
+__Python developer__, Kolo Global
+
+- TODO: work experience
+
+`2010-2011`
+__Independent software developer__, oDesk
+
+- TODO: work experience
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2011-2013`
+__Kyiv National Taras Shevchenko University.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- master, Computer science. Major in distributed computations
 
-- Sizar
+`2007-2011`
+__Kyiv National Taras Shevchenko University.__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- bachelor, Computer science
 
-- Fellow
+## Languanges
 
+`Fluent`
+__English.__
 
+`Native`
+__Ukrainian.__
 
-## Awards
+`Fluent`
+__Russian.__
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`B2`
+__Swedish.__
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: January 2020 -->
 
 
