@@ -12,9 +12,9 @@ Software engineer
 
 ## About me
 
-I am a software engineer "get job done" attitude and 9+ years of experience in software development.
-With experience in back end development and network security systems and background in computer science, distributed systems and cryptography I look for porjects to apply my skills to.
-On top of technical abilities I sympathise with agile methodologies and have experience facilitating work of my team as a scrum master.
+- I am a software engineer "get job done" attitude and 9+ years of experience in software development.
+- With experience in back end development and network security systems and background in computer science, distributed systems and cryptography I look for porjects to apply my skills to.
+- On top of technical abilities I sympathise with agile methodologies and have experience facilitating work of my team as a scrum master.
 
 
 ## Currently
