@@ -33,7 +33,7 @@ __C software developer in network security / Scrum master__, Clavister AB
   * design and development of embedded systems for network security for enterprise and telecom markets as well as management systems for network security devices
   * facilitating the work of my team and ensuring the team's smooth operation
   
-  Projects that I have been part of include network security gateways <a href="https://www.clavister.com/products/ngfw/">NetWall</a>, <a href="https://www.clavister.com/products/netshield/">NetShield</a>, gateway management system <a href="https://www.clavister.com/products/incenter/">InCenter</a> and others. This work involved:
+- Projects that I have been part of include network security gateways <a href="https://www.clavister.com/products/ngfw/">NetWall</a>, <a href="https://www.clavister.com/products/netshield/">NetShield</a>, gateway management system <a href="https://www.clavister.com/products/incenter/">InCenter</a> and others. This work involved:
   * indentifying use-cases, formalizing requirements and developing high-level design description and feature breakdown.
   * developing network traffic processing systems, network protocol implementations, application level gateway features, enterprise and telecom security gateway features etc.
 
