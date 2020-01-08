@@ -189,6 +189,20 @@ strong {
 	visibility: hidden;
 }
 
+#photo {
+	left: 5%;
+	position: absolute;
+}
+
+#photo-img {
+	height: 10em;
+	border-radius: 5rem !important;
+}
+
+
+#content {
+	padding-top: 1.7em;
+}
 
 
 

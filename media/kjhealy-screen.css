@@ -186,7 +186,19 @@ strong {
 	display: none;
 }
 
+#photo {
+	padding-left: 18em;
+	position: absolute;
+}
 
+#photo-img {
+	height: 13em;
+	border-radius: 7rem !important;
+}
+
+#content {
+	padding-top: 3.5em;
+}
 
 /*
 @media only screen and (max-width: 480px) {
