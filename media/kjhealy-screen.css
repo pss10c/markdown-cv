@@ -187,7 +187,8 @@ strong {
 }
 
 #photo {
-	padding-left: 18em;
+	padding-left: 2em;
+	padding-top: 2em;
 	position: absolute;
 }
 
