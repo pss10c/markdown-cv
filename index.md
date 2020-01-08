@@ -110,13 +110,13 @@ Agile methodologies, Scrum
 
 ## Languages
 
-__Ukrainian__, native
+Ukrainian - native
 
-__English__, fluent
+English - fluent
 
-__Russian__, fluent
+Russian - fluent
 
-__Swedish__, B2
+Swedish - B2
 
 ## Interests
 
