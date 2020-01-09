@@ -3,19 +3,7 @@
    License: none (public domain)
 */
 
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -23,25 +11,30 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
 body {
 	line-height: 1;
 }
+
 ol, ul {
 	list-style: none;
 }
+
 blockquote, q {
 	quotes: none;
 }
-blockquote:before, blockquote:after,
-q:before, q:after {
+
+blockquote:before, blockquote:after, q:before, q:after {
 	content: '';
 	content: none;
 }
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -49,19 +42,17 @@ table {
 
 /* end of reset */
 
-
-
 body {
 	font: normal normal 400;
-	font-size: 80%;
+	font-size: 100%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Verdana,sans-serif;
+	font-family: Verdana, sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
 }
 
-p {
+h4, p {
 	position: relative;
 	left: 33%;
 	margin-bottom: 0.7em;
@@ -73,30 +64,30 @@ code {
 	font: normal normal;
 	font-size: 80%;
 	/*line-height: 1em;*/
-	font-family: Menlo,monospace,sans-serif;
+	font-family: Menlo, monospace, sans-serif;
 	color: #aaa;
 }
 
 p code {
 	position: absolute;
-	left: -14%;
+	left: -18%;
 }
 
-
-ul { 
+ul {
 	position: relative;
-	left: 33%;
+	left: 35%;
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
+
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
@@ -112,9 +103,9 @@ li ul {
 	margin-top: 0.25em;
 }
 
-h1,h2,h3,h4 {
+h1, h2, h3, h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	font-family: Cousine, Verdana, sans-serif;
 	width: 65%;
 }
 
@@ -126,29 +117,30 @@ h1 {
 	left: 33%;
 }
 
-h1+p { 
+h1+h4 {
 	/*subtitle*/
 	font-style: italic;
-	font-size: 110%;
+	font-size: 120%;
 }
 
 h2 {
-	font-size: 1.7em;
+	font-size: 1.8em;
 	color: #a00;
 	margin-top: 3em;
 	position: relative;
-	top: 0.84em;
+	top: 0.7em;
 	text-align: right;
-	width: 20%;
+	width: 16%;
+	display: block;
 }
 
 h3 {
 	font-size: 1.1em;
-	line-height: 2em; 
+	line-height: 2em;
 	position: relative;
 	top: 1.7em;
 	text-align: right;
-	width: 20%;
+	width: 16%;
 }
 
 a {
@@ -157,7 +149,7 @@ a {
 }
 
 a:hover {
-	color:#39f
+	color: #39f
 }
 
 #webaddress {
@@ -165,7 +157,7 @@ a:hover {
 	position: relative;
 	left: 33%;
 	color: #aaa;
-	font-family: Menlo,monospace,sans-serif;
+	font-family: Menlo, monospace, sans-serif;
 	font-size: 80%;
 }
 
@@ -187,7 +179,7 @@ strong {
 }
 
 #photo {
-	padding-left: 2em;
+	padding-left: 8em;
 	padding-top: 2em;
 	position: absolute;
 }
@@ -195,6 +187,38 @@ strong {
 #photo-img {
 	height: 13em;
 	border-radius: 7rem !important;
+}
+
+@media only screen and (max-width: 1024px) {
+	p {
+		left: 22%;
+	}
+	ul {
+		left: 24%
+	}
+	p code {
+		left: 100%;
+	}
+	#photo {
+		padding-left: 3.5em;
+		position: absolute;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	p {
+		left: 25%;
+	}
+	ul {
+		left: 27%
+	}
+	p code {
+		left: 100%;
+	}
+	#photo {
+		padding-left: 2em;
+		position: absolute;
+	}
 }
 
 #content {
