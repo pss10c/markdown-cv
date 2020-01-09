@@ -12,7 +12,11 @@ Software engineer
   <div id="location">
     <a href="https://maps.google.com/?q='Umeå, Sweden'">&#x1F4CD; Umeå, Sweden</a>
   </div>
+  <div id="download">
+    <a href="media/download/resume.pdf" download>&#x1F4D6; Printable version (PDF)</a>
+  </div>
 </div>
+
 
 ## About me
 
