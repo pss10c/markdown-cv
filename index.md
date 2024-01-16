@@ -35,10 +35,9 @@ Back end development, cloud development, systems development
 Type systems, Functional programming, concurrency, database development, AI
 
 ## Work Experience
-`2022-present`
-__Senior software developer specialist & Scrum master__, Nasdaq
-`2020-2022`
-__Software developer specialist & Scrum master__, Nasdaq
+`2020-present`
+__Senior software development specialist & Scrum master__, Nasdaq
+
 My main responsibilities were to develop, maintain and support a product known as Data Platform - a solution for collecting, transforming various types of data (trading, clearing etc.) and using this data to either archive it or generate and distribute regulatory and other types of reports. Deployment of our product were made to both on-prem and cloud environments.
 On top of this I have been heavily involved in building CI pipelines and other build and deployment infrastructure.
 Most of the development done in Java 17 (Spring Boot), Javascript (React and Node.js)
