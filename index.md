@@ -20,7 +20,7 @@ title: Serhii Pohorilyi's CV
 
 ## About me
 
-I am a software engineer with a focus on the result, habits of self-education, and 9+ years of experience in software development. I believe that every engineering decision is a trade-off, and my job is to find the right one for the task at hand.
+I am a software engineer with a focus on the result, habits of self-education, and 13+ years of experience in software development. I believe that every engineering decision is a trade-off, and my job is to find the right one for the task at hand.
 
 With experience in back end development and network security systems and background in computer science, distributed systems, and cryptography, I look for projects to apply my skills to and create business value for the company.
 
@@ -28,15 +28,24 @@ I sympathize with agile methodologies and have experience facilitating the work 
 
 ### Specialized in
 
-Back end development, network security, systems development
+Back end development, cloud development, systems development
 
 ### Interested in
 
-Research development, concurrency, database development
+Type systems, Functional programming, concurrency, database development, AI
 
 ## Work Experience
+`2022-present`
+__Senior software developer specialist & Scrum master__, Nasdaq
+`2020-2022`
+__Software developer specialist & Scrum master__, Nasdaq
+My main responsibilities were to develop, maintain and support a product known as Data Platform - a solution for collecting, transforming various types of data (trading, clearing etc.) and using this data to either archive it or generate and distribute regulatory and other types of reports. Deployment of our product were made to both on-prem and cloud environments.
+On top of this I have been heavily involved in building CI pipelines and other build and deployment infrastructure.
+Most of the development done in Java 17 (Spring Boot), Javascript (React and Node.js)
 
-`2015-present`
+Also, using my previous experience as Scrum Master I have assisted the team through agile transformation during which we tested Kanban and Scrum.
+
+`2015-2020`
 __Software developer & Scrum master__, Clavister AB
 
 At Clavister, my role consisted of two parts:
@@ -97,13 +106,13 @@ __Machine learning course__, <a href="https://www.coursera.org/learn/machine-lea
 ### Technical
 
 `Technologies`
-Python, C / C++, Javascript / Node.js, AWS (S3, EC2, SQS), MongoDB, SQL
+Java, Python, Docker, Kubernetes, Javascript / Node.js, AWS (EKS, MSK, S3), PostgreSQL, SQL, Parquet, C, C++, MongoDB
 
 `Methodologies`
-Microservices, MVC, Algorithms, Async programming
+Microservices, MVC, Algorithms, Async programming, DSL
 
 `Tools`
-Unix, Linux, Git, Shell scripting, Vagrant, Windows, Jira/Confluence
+Unix, Linux, Git, Shell scripting, Gitlab, Gitlab CI, Github, Vagrant, Windows, Jira/Confluence
 
 `Familiar`
 Machine learning, Docker, Java, Rust, Go, C#
@@ -140,6 +149,6 @@ __Driving license__, B
 
 <!-- ### Footer
 
-Last updated: January 2020 -->
+Last updated: January 2024 -->
 
 
